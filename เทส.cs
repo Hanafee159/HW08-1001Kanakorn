@@ -1,2 +1,2 @@
 console.writeline ("nigg");
-ConsoleWrite.("fee black skin")
+ConsoleWrite.("fee black skin");
